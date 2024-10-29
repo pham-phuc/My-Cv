@@ -39,6 +39,9 @@ body {
   position: relative;
   overflow-x: hidden;
 }
+.pl-0 {
+  padding-left: 0;
+}
 .bottom_15 {
   margin-bottom: 15px;
 }
